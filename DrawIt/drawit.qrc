@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="DrawIt">
+      <file alias="ic_line">Resources/ic_line.png</file>
+      <file alias="ic_circle">Resources/ic_circle.png</file>
+      <file alias="ic_rectangle">Resources/ic_rectangle.png</file>
+      <file alias="ic_freehand">Resources/ic_freehand.png</file>
+      <file alias="ic_undo">Resources/ic_undo.png</file>
+      <file alias="ic_redo">Resources/ic_redo.png</file>
+      <file alias="ic_empty_fill">Resources/ic_empty_fill.png</file>
+      <file alias="ic_cb_line">Resources/ic_combo_box_line.png</file>
+      <file alias="ic_cb_do_line">Resources/ic_combo_box_dotted_line.png</file>
+      <file alias="ic_cb_da_line">Resources/ic_combo_box_dashed_line.png</file>
+      <file alias="ic_cb_da_do_line">Resources/ic_combo_box_dashed_dotted_line.png</file>
+      <file alias="ic_cb_1">Resources/ic_combo_box_1px.png</file>
+      <file alias="ic_cb_2">Resources/ic_combo_box_2px.png</file>
+      <file alias="ic_cb_4">Resources/ic_combo_box_4px.png</file>
+      <file alias="ic_cb_6">Resources/ic_combo_box_6px.png</file>
+      <file alias="ic_cb_8">Resources/ic_combo_box_8px.png</file>
+    </qresource>
+</RCC>
